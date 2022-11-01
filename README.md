@@ -21,6 +21,7 @@ git clone https://github.com/KurrXd/node_modules
 cd Host
 npm install
 node main pm2 start main.js
+
 For Termux Code
 pkg update && pkg upgrade
 pkg install nodejs
